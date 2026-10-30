@@ -1,0 +1,7 @@
+---
+ - name: abdullo
+   password: abdullo
+ - name: marat
+   password: marat
+ - name: khakim
+   password: khakim
