@@ -1,7 +1,11 @@
 ---
+users:
  - name: abdullo
    password: abdullo
  - name: marat
    password: marat
  - name: khakim
    password: khakim
+ - name: sherdor
+   password: sherdor
+ other: some value
